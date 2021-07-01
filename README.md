@@ -10,3 +10,5 @@ TO DO LIST:
 - "my day" list that resets evert 24hrs
 - color codes for tasks, red for important, yellow for semi important, blue for not as important, etc.
 - web browser / program on pc --> android app 
+
+- OH OKAY
