@@ -10,3 +10,5 @@ TO DO LIST:
 - friends list / badges
 - "my day" list that resets evert 24hrs
 - color codes for tasks, red for important, yellow for semi important, blue for not as important, etc.
+
+HELLO I UPDATED THIS FROM MY COMPUTER LOL
